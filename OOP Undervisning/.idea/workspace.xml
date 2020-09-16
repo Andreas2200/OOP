@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29d3683d-91c4-4b18-8f0f-5aceebbfb612" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hEOtjOLRdjWuqbTpdL00s3mucE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Printf">
+    <configuration name="CelciusToFahrenheit" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CelciusToFahrenheit" />
+      <module name="Modul 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputeArea" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputeArea" />
+      <module name="Modul 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputeCircumference" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputeCircumference" />
+      <module name="Modul 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DailyDifference" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyDifference" />
+      <module name="Modul 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Epoch" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Epoch" />
+      <module name="Modul 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Modul 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonthIncrement" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MonthIncrement" />
+      <module name="Modul 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Printf" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Printf" />
+      <module name="Modul 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Modul 2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Modul 2" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CelciusToFahrenheit" />
+      <item itemvalue="Application.ComputeArea" />
+      <item itemvalue="Application.ComputeCircumference" />
+      <item itemvalue="Application.DailyDifference" />
+      <item itemvalue="Application.Epoch" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.MonthIncrement" />
+      <item itemvalue="Application.Printf" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29d3683d-91c4-4b18-8f0f-5aceebbfb612" name="Default Changelist" comment="" />
+      <created>1599573001646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599573001646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="107" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599644916037">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="107" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1599644916037" />
+    <state width="744" height="304" key="GridCell.Tab.0.bottom" timestamp="1600079705808">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="744" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600079705808" />
+    <state width="1398" height="131" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599723722757" />
+    <state width="744" height="304" key="GridCell.Tab.0.center" timestamp="1600079705807">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="744" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600079705807" />
+    <state width="1398" height="131" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599723722756" />
+    <state width="744" height="304" key="GridCell.Tab.0.left" timestamp="1600079705807">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="744" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600079705807" />
+    <state width="1398" height="131" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599723722755" />
+    <state width="744" height="304" key="GridCell.Tab.0.right" timestamp="1600079705808">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="744" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600079705808" />
+    <state width="1398" height="131" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599723722756" />
+    <state width="744" height="304" key="GridCell.Tab.1.bottom" timestamp="1600079705809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="744" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600079705809" />
+    <state width="744" height="304" key="GridCell.Tab.1.center" timestamp="1600079705809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="744" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600079705809" />
+    <state width="744" height="304" key="GridCell.Tab.1.left" timestamp="1600079705808">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="744" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600079705808" />
+    <state width="744" height="304" key="GridCell.Tab.1.right" timestamp="1600079705809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="744" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600079705809" />
+    <state x="207" y="27" key="SettingsEditor" timestamp="1599639624079">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="207" y="27" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1599639624079" />
+    <state x="417" y="77" width="604" height="735" key="find.popup" timestamp="1599639481176">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="417" y="77" width="604" height="735" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1599639481176" />
+    <state x="88" y="72" key="new project wizard" timestamp="1600079703605">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1600079703605" />
+    <state x="384" y="202" key="run.anything.popup" timestamp="1599639656145">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="384" y="202" key="run.anything.popup/0.23.1440.877@0.23.1440.877" timestamp="1599639656145" />
+    <state x="384" y="212" width="670" height="676" key="search.everywhere.popup" timestamp="1599643704368">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="384" y="212" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1599643704368" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP_Undervisning$ComputeCircumference.ic" NAME="ComputeCircumference Coverage Results" MODIFIED="1599641916477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
