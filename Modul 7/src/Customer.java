@@ -7,6 +7,7 @@ public class Customer {
     {
         name = newName;
         id = newId;
+        balance = 0;
         Main.costumerCount++;
     }
     public Customer(String newName, int newId, double startBalance)

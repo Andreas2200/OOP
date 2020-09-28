@@ -16,11 +16,7 @@ public class CustomerDatabase
     {
         for (int i = 0; i < customers.length; i++)
         {
-            if(customers[i] == null)
-            {
-                break;
-            }
-            if (customers[i].id == idToRemove)
+            if(customers[i] != null && customers[i].id == idToRemove)
             {
                 customers[i] = null;
             }
@@ -31,7 +27,12 @@ public class CustomerDatabase
     {
         for (int i = 0; i < customers.length; i++)
         {
-            System.out.println(customers[i]);
+            if(customers[i] != null) {
+                System.out.println("");
+                System.out.println("Name: " + customers[i].name);
+                System.out.println("ID: " + customers[i].id);
+                System.out.println("Balance: " + customers[i].getBalance());
+            }
         }
     }
 
