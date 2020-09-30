@@ -20,6 +20,7 @@ public class EnrollmentSystem
     {
         for (Student student: course.getParticipants())
         {
+            System.out.println("");
             System.out.println(student.getName());
         }
     }
