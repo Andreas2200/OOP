@@ -44,14 +44,9 @@ public class Course
                 count++;
             }
         }
+
         Student[] result = new Student[count]; // make a copy
-        /*for (Student student: participants)
-        {
-            if (student != null)
-            {
-                result[count] = student;
-            }
-        }*/
+
         for (int i = 0; i < result.length; i++)
         {
             if(participants[i] != null) {
