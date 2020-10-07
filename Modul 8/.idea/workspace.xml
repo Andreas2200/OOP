@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99aef413-11c6-4cdd-b14c-4092fc864bde" name="Default Changelist" comment="Added modul 8 (updated Course.getParticipants)">
+      <change afterPath="$PROJECT_DIR$/../Modul 9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/Modul 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/src/Kitten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul 9/src/Timing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iDsLGWcbk4Nw0U0vwVabSiebm7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Modul 8" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99aef413-11c6-4cdd-b14c-4092fc864bde" name="Default Changelist" comment="" />
+      <created>1601453438240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601453438240</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added modul 8">
+      <created>1601460054564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601460054564</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added modul 8 (updated Course.getParticipants)">
+      <created>1601460307672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601460307672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added modul 8" />
+    <MESSAGE value="Added modul 8 (updated Course.getParticipants)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added modul 8 (updated Course.getParticipants)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="294" key="GridCell.Tab.0.bottom" timestamp="1601535950835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601535950835" />
+    <state width="1398" height="294" key="GridCell.Tab.0.center" timestamp="1601535950834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601535950834" />
+    <state width="1398" height="294" key="GridCell.Tab.0.left" timestamp="1601535950833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601535950833" />
+    <state width="1398" height="294" key="GridCell.Tab.0.right" timestamp="1601535950834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601535950834" />
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom" timestamp="1601535950837">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601535950837" />
+    <state width="1398" height="294" key="GridCell.Tab.1.center" timestamp="1601535950836">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601535950836" />
+    <state width="1398" height="294" key="GridCell.Tab.1.left" timestamp="1601535950835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601535950835" />
+    <state width="1398" height="294" key="GridCell.Tab.1.right" timestamp="1601535950836">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601535950836" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601460310333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601460310333" />
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601460044270">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1601460044270" />
+    <state x="88" y="72" key="new project wizard" timestamp="1601535950690">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1601535950690" />
+  </component>
+</project>
