@@ -18,9 +18,9 @@ public class Timing
         for (double y = 1; y < 32; y++)
         {
             double timeStart = System.currentTimeMillis();
-            Timing.fun(x,y);
+            double result = fun(x,y);
             double timeEnd = System.currentTimeMillis();
-            System.out.println("Took: " + (timeEnd-timeStart));
+            System.out.println("Attempt " + y + " took: " + (timeEnd-timeStart) + " Result: " + result);
             if(y == 31)
             {
                 System.out.println("At the end");
