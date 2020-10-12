@@ -3,7 +3,7 @@ public class PrimeNumbers {
         int n = 1000000;
         int temp = 0;
         boolean[] primes = new boolean[n];
-        long timeEnd = 0;
+        long timeEnd;
         long timeStart = System.currentTimeMillis();
         for (int i = 2; i < primes.length; i++){
             primes[i] = true;

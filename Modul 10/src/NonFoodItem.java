@@ -1,24 +1,28 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class NonFoodItem extends Item
 {
-    String[] materials;
+    ArrayList<String> materials = new ArrayList<String>();
 
     NonFoodItem(String name, Double price, String[] materials)
     {
         super(name,price);
-        this.materials = materials;
+        ArrayList<String> mats = new ArrayList<String>(Arrays.asList(materials));
+        this.materials = mats;
     }
 
     public String getMaterials() {
         String result = "";
-        for (int i = 0; i < materials.length; i++)
+        for (int i = 0; i < materials.size(); i++)
         {
-            if(materials[i] != null && i != materials.length - 1)
+            if(materials.get(i) != null && i != materials.size() - 1)
             {
-                result += materials[i] + ", ";
+                result += materials.get(i) + ", ";
             }
-            if(materials[i] != null && i == materials.length - 1)
+            if(materials.get(i) != null && i == materials.size() - 1)
             {
-                result += materials[i];
+                result += materials.get(i);
             }
         }
         return result;
