@@ -1,10 +1,11 @@
+import java.util.Calendar;
 import java.util.Date;
 
 public class Main {
 
     public static void main(String[] args)
     {
-        Inventory inventory = new Inventory("Inventory",0);
+        Inventory inventory = new Inventory();
 
         FoodItem[] foodItems = new FoodItem[10];
 
@@ -12,7 +13,7 @@ public class Main {
 
         for (int i = 0; i < foodItems.length; i++)
         {
-            foodItems[i] = new FoodItem("Apple",i*2, new Date(2020-1900,9,15));
+            foodItems[i] = new FoodItem("Apple",i*2, new Date(2020-1900, Calendar.OCTOBER,15));
         }
 
         for (int i = 0; i < nonFoodItems.length; i++)
@@ -31,10 +32,19 @@ public class Main {
             System.out.println(element);
         }
 
+        for (int i = 0; i < nonFoodItems.length; i++)
+        {
+            inventory.addItem(nonFoodItems[i]);
+        }
+
         for (int i = 0; i < foodItems.length; i++)
         {
             inventory.addItem(foodItems[i]);
         }
+
+        inventory.printInventory();
+
+        inventory.removeExpiredFoods();
 
         inventory.printInventory();
     }

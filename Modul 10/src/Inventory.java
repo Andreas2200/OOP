@@ -1,11 +1,17 @@
 import java.util.ArrayList;
 
-public class Inventory extends Item
+public class Inventory
 {
     private ArrayList<Item> items = new ArrayList<Item>();
 
-    Inventory(String name, double price) {
-        super(name, price);
+    Inventory(ArrayList<Item> items)
+    {
+        this.items = items;
+    }
+
+    Inventory()
+    {
+        this(new ArrayList<Item>());
     }
 
     public void addItem(Item item)
@@ -40,5 +46,23 @@ public class Inventory extends Item
         }
 
         System.out.println(tempNameString);
+    }
+
+    public void removeExpiredFoods()
+    {
+        for (int i = 0; i < items.size(); i++)
+        {
+            Item item = items.get(i);
+            try
+            {
+                boolean isExpired = item.isExpired();
+                if(isExpired)
+                {
+                    items.remove(i);
+                    i--;
+                }
+            }
+            catch (UnsupportedOperationException e) {}
+        }
     }
 }

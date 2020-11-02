@@ -1,4 +1,4 @@
-public class Item
+public abstract class Item implements Expirable
 {
     private String name;
     private double price;
@@ -15,5 +15,10 @@ public class Item
 
     public String getName() {
         return name;
+    }
+
+    @Override
+    public boolean isExpired() {
+        throw new UnsupportedOperationException("Itemdoes not support this operation.");
     }
 }

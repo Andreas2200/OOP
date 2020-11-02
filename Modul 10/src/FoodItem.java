@@ -1,3 +1,4 @@
+import java.time.LocalDateTime;
 import java.util.Date;
 
 public class FoodItem extends Item
@@ -20,4 +21,8 @@ public class FoodItem extends Item
         return "Name: " + getName() + "\n Price: " + getPrice() + "\n Expires: " + getExpires();
     }
 
+    @Override
+    public boolean isExpired() {
+        return expires.compareTo(new Date()) < 0;
+    }
 }
